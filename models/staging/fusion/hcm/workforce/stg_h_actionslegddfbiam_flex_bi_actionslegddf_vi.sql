@@ -6,7 +6,7 @@ with h_actionslegddfbiam_flex_bi_actionslegddf_vi as (
                CREATIONDATE as CREATIONDATE,
                CREATEDBY as CREATEDBY,
                LASTUPDATEDATE as LASTUPDATEDATE,
-               LASTUPDATEDBY as LASTUPDATEDBY,
+               LASTUPDATEDBY as LASTUPDATEDBY 
       from 'chrome-genre-298014.sakra_stage.h_actionslegddfbiam_flex_bi_actionslegddf_vi'
 )
 

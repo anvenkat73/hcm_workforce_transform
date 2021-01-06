@@ -3,7 +3,7 @@ with h_gregoriancalendaram_fndcalyear as (
                CALYEAR as CALYEAR,
                CALYEARENDDATE as CALYEARENDDATE,
                CALYEARSTARTDATE as CALYEARSTARTDATE,
-               LASTUPDATEDATE as LASTUPDATEDATE,
+               LASTUPDATEDATE as LASTUPDATEDATE 
       from 'chrome-genre-298014.sakra_stage.h_gregoriancalendaram_fndcalyear'
 )
 

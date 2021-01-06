@@ -10,7 +10,7 @@ with f_finfunbusinessunitsam_businessunitpvo as (
                LEDGERNAME as LEDGERNAME,
                LEGALENTITYLEGALENTITYID as LEGALENTITYLEGALENTITYID,
                PERSONREFFULLNAME as PERSONREFFULLNAME,
-               SETIDSETSSETID as SETIDSETSSETID,
+               SETIDSETSSETID as SETIDSETSSETID 
       from 'chrome-genre-298014.sakra_stage.f_finfunbusinessunitsam_businessunitpvo'
 )
 

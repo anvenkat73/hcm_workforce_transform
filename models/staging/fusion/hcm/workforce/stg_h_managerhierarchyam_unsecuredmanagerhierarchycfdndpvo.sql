@@ -73,7 +73,7 @@ with h_managerhierarchyam_unsecuredmanagerhierarchycfdndpvo as (
                LASTUPDATEDATE as LASTUPDATEDATE,
                LASTUPDATELOGIN as LASTUPDATELOGIN,
                LASTUPDATEDBY as LASTUPDATEDBY,
-               REQUESTID as REQUESTID,
+               REQUESTID as REQUESTID 
       from 'chrome-genre-298014.sakra_stage.h_managerhierarchyam_unsecuredmanagerhierarchycfdndpvo'
 )
 

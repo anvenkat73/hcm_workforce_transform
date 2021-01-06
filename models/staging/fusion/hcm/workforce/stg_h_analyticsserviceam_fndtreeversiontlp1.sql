@@ -8,7 +8,7 @@ with h_analyticsserviceam_fndtreeversiontlp1 as (
                TREESTRUCTURECODE as TREESTRUCTURECODE,
                TREEVERSIONID as TREEVERSIONID,
                TREEVERSIONNAME as TREEVERSIONNAME,
-               VERSIONCOMMENT as VERSIONCOMMENT,
+               VERSIONCOMMENT as VERSIONCOMMENT 
       from 'chrome-genre-298014.sakra_stage.h_analyticsserviceam_fndtreeversiontlp1'
 )
 

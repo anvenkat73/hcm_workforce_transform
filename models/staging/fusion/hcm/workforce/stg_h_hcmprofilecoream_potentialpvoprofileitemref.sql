@@ -20,7 +20,7 @@ with h_hcmprofilecoream_potentialpvoprofileitemref as (
                RATINGMODELID1 as RATINGMODELID1,
                STATEPROVINCEID as STATEPROVINCEID,
                SECTIONID as SECTIONID,
-               ITEMNUMBER2 as ITEMNUMBER2,
+               ITEMNUMBER2 as ITEMNUMBER2 
       from 'chrome-genre-298014.sakra_stage.h_hcmprofilecoream_potentialpvoprofileitemref'
 )
 

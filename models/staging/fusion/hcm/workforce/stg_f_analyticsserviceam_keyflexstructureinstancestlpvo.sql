@@ -11,7 +11,7 @@ with f_analyticsserviceam_keyflexstructureinstancestlpvo as (
                NAME as NAME,
                SOURCELANG as SOURCELANG,
                STRUCTUREINSTANCECODE as STRUCTUREINSTANCECODE,
-               LASTUPDATELOGIN as LASTUPDATELOGIN,
+               LASTUPDATELOGIN as LASTUPDATELOGIN 
       from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_keyflexstructureinstancestlpvo'
 )
 

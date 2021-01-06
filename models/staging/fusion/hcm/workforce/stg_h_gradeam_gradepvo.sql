@@ -17,7 +17,7 @@ with h_gradeam_gradepvo as (
                GRADEPEOOBJECTVERSIONNUMBER as GRADEPEOOBJECTVERSIONNUMBER,
                GRADEPEOPAYSCALEID as GRADEPEOPAYSCALEID,
                GRADEPEOSETID as GRADEPEOSETID,
-               GRADEPEOSTARTINGSTEP as GRADEPEOSTARTINGSTEP,
+               GRADEPEOSTARTINGSTEP as GRADEPEOSTARTINGSTEP 
       from 'chrome-genre-298014.sakra_stage.h_gradeam_gradepvo'
 )
 

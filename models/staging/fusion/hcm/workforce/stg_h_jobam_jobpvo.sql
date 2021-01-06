@@ -23,7 +23,7 @@ with h_jobam_jobpvo as (
                JOBPEOOBJECTVERSIONNUMBER as JOBPEOOBJECTVERSIONNUMBER,
                JOBPEOPROGRESSIONJOBID as JOBPEOPROGRESSIONJOBID,
                JOBPEOREGULARTEMPORARY as JOBPEOREGULARTEMPORARY,
-               JOBPEOSETID as JOBPEOSETID,
+               JOBPEOSETID as JOBPEOSETID 
       from 'chrome-genre-298014.sakra_stage.h_jobam_jobpvo'
 )
 

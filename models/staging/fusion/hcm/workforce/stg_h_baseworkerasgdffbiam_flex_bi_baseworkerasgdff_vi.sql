@@ -34,7 +34,7 @@ with h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi as (
                DESC_FLEX_CONTEXT_ as DESC_FLEX_CONTEXT_,
                KEY_FLEX_CONTEXT_0 as KEY_FLEX_CONTEXT_0,
                KEY_FLEX_CONTEXT_1 as KEY_FLEX_CONTEXT_1,
-               KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2,
+               KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2 
       from 'chrome-genre-298014.sakra_stage.h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi'
 )
 

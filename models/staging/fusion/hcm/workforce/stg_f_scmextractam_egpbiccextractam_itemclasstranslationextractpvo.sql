@@ -4,7 +4,7 @@ with f_scmextractam_egpbiccextractam_itemclasstranslationextractpvo as (
                ITEMCLASSTRANPEOLANGUAGE as ITEMCLASSTRANPEOLANGUAGE,
                ITEMCLASSTRANPEOITEMCLASSNAME as ITEMCLASSTRANPEOITEMCLASSNAME,
                ITEMCLASSTRANPEODESCRIPTION as ITEMCLASSTRANPEODESCRIPTION,
-               ITEMCLASSTRANPEOLASTUPDATEDATE as ITEMCLASSTRANPEOLASTUPDATEDATE,
+               ITEMCLASSTRANPEOLASTUPDATEDATE as ITEMCLASSTRANPEOLASTUPDATEDATE 
       from 'chrome-genre-298014.sakra_stage.f_scmextractam_egpbiccextractam_itemclasstranslationextractpvo'
 )
 

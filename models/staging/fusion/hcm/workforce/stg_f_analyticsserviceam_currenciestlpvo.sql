@@ -6,7 +6,7 @@ with f_analyticsserviceam_currenciestlpvo as (
                NAME as NAME,
                SOURCELANG as SOURCELANG,
                LASTUPDATEDATE as LASTUPDATEDATE,
-               CREATIONDATE as CREATIONDATE,
+               CREATIONDATE as CREATIONDATE 
       from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_currenciestlpvo'
 )
 

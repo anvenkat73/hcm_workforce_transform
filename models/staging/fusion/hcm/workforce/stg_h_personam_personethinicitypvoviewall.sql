@@ -7,7 +7,7 @@ with h_personam_personethinicitypvoviewall as (
                ETHNICITYPEOETHNICITY as ETHNICITYPEOETHNICITY,
                ETHNICITYPEOPRIMARYFLAG as ETHNICITYPEOPRIMARYFLAG,
                ETHNICITYPEOCREATIONDATE as ETHNICITYPEOCREATIONDATE,
-               ETHNICITYPEOLASTUPDATEDATE as ETHNICITYPEOLASTUPDATEDATE,
+               ETHNICITYPEOLASTUPDATEDATE as ETHNICITYPEOLASTUPDATEDATE 
       from 'chrome-genre-298014.sakra_stage.h_personam_personethinicitypvoviewall'
 )
 

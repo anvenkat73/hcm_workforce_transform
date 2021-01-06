@@ -11,7 +11,7 @@ with h_hcmprofilecoream_personprofileitempvo as (
                CREATIONDATE as CREATIONDATE,
                LASTUPDATEDBY as LASTUPDATEDBY,
                LASTUPDATEDATE as LASTUPDATEDATE,
-               LASTUPDATELOGIN as LASTUPDATELOGIN,
+               LASTUPDATELOGIN as LASTUPDATELOGIN 
       from 'chrome-genre-298014.sakra_stage.h_hcmprofilecoream_personprofileitempvo'
 )
 

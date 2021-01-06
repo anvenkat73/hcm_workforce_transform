@@ -4,7 +4,7 @@ with h_gregoriancalendaram_fndcalquarter as (
                CALQTRSTARTDATE as CALQTRSTARTDATE,
                CALQUARTER as CALQUARTER,
                CALQUARTERCODE as CALQUARTERCODE,
-               LASTUPDATEDATE as LASTUPDATEDATE,
+               LASTUPDATEDATE as LASTUPDATEDATE 
       from 'chrome-genre-298014.sakra_stage.h_gregoriancalendaram_fndcalquarter'
 )
 

@@ -7,7 +7,7 @@ with f_analyticsserviceam_territoriestlpvo as (
                CREATIONDATE as CREATIONDATE,
                CREATEDBY as CREATEDBY,
                LASTUPDATEDATE as LASTUPDATEDATE,
-               LASTUPDATEDBY as LASTUPDATEDBY,
+               LASTUPDATEDBY as LASTUPDATEDBY 
       from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_territoriestlpvo'
 )
 

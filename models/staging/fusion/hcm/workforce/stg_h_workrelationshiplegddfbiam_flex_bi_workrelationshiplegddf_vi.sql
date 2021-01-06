@@ -130,7 +130,7 @@ with h_workrelationshiplegddfbiam_flex_bi_workrelationshiplegddf_vi as (
                LASTUPDATEDATE as LASTUPDATEDATE,
                LASTUPDATEDBY as LASTUPDATEDBY,
                DESC_NAIC_OVERRIDE_CODE_ as DESC_NAIC_OVERRIDE_CODE_,
-               DESC_PSE_TYPE_ as DESC_PSE_TYPE_,
+               DESC_PSE_TYPE_ as DESC_PSE_TYPE_ 
       from 'chrome-genre-298014.sakra_stage.h_workrelationshiplegddfbiam_flex_bi_workrelationshiplegddf_vi'
 )
 

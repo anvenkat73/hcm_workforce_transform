@@ -49,7 +49,7 @@ with h_managerhierarchyam_managerhrchybottomuppvolinemanager as (
                LEVEL9MANAGERASSIGNMENTID as LEVEL9MANAGERASSIGNMENTID,
                LEVEL9MANAGERID as LEVEL9MANAGERID,
                MANAGERTYPE as MANAGERTYPE,
-               PERSONID as PERSONID,
+               PERSONID as PERSONID 
       from 'chrome-genre-298014.sakra_stage.h_managerhierarchyam_managerhrchybottomuppvolinemanager'
 )
 

@@ -11,7 +11,7 @@ with f_analyticsserviceam_lookupvaluestlpvo as (
                LASTUPDATEDATE as LASTUPDATEDATE,
                LASTUPDATEDBY as LASTUPDATEDBY,
                CREATEDBY as CREATEDBY,
-               CREATIONDATE as CREATIONDATE,
+               CREATIONDATE as CREATIONDATE 
       from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_lookupvaluestlpvo'
 )
 

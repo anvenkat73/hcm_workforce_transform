@@ -14,7 +14,7 @@ with h_managerhierarchyam_managerhierarchydnpvolinemanager as (
                MANAGERTYPE as MANAGERTYPE,
                PERSONID as PERSONID,
                PRIMARYASSIGNMENTFLAG as PRIMARYASSIGNMENTFLAG,
-               PRIMARYMANAGERFLAG as PRIMARYMANAGERFLAG,
+               PRIMARYMANAGERFLAG as PRIMARYMANAGERFLAG 
       from 'chrome-genre-298014.sakra_stage.h_managerhierarchyam_managerhierarchydnpvolinemanager'
 )
 

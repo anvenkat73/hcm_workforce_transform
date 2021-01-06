@@ -13,7 +13,7 @@ with f_finglcalaccam_glfiscalperiodpvo as (
                FISCALPERIODFISCALYEARSTARTDATE as FISCALPERIODFISCALYEARSTARTDATE,
                FISCALPERIODNAME as FISCALPERIODNAME,
                FISCALPERIODSETNAME as FISCALPERIODSETNAME,
-               FISCALPERIODTYPE as FISCALPERIODTYPE,
+               FISCALPERIODTYPE as FISCALPERIODTYPE 
       from 'chrome-genre-298014.sakra_stage.f_finglcalaccam_glfiscalperiodpvo'
 )
 

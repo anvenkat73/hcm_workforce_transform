@@ -63,7 +63,7 @@ with h_baseworkerasglegddfbiam_flex_bi_baseworkerasglegddf_vi as (
                LASTUPDATEDBY as LASTUPDATEDBY,
                DESC_OR_RX_T_CNTRCT_TYP__ as DESC_OR_RX_T_CNTRCT_TYP__,
                DESC_TELEWORKING_TIME_UNIT_ as DESC_TELEWORKING_TIME_UNIT_,
-               DESC_OR_RX_S_NTR_F_PRSN_ as DESC_OR_RX_S_NTR_F_PRSN_,
+               DESC_OR_RX_S_NTR_F_PRSN_ as DESC_OR_RX_S_NTR_F_PRSN_ 
       from 'chrome-genre-298014.sakra_stage.h_baseworkerasglegddfbiam_flex_bi_baseworkerasglegddf_vi'
 )
 
