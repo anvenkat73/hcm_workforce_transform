@@ -1,0 +1,15 @@
+with f_finpmtfdpmtmethodam_paymentmethodtranslationpvo as ( 
+      select 
+               PAYMENTMETHODCODE as PAYMENTMETHODCODE,
+               LANGUAGE as LANGUAGE,
+               PAYMENTMTHDBASEPAYMENTMETHODNAME as PAYMENTMTHDBASEPAYMENTMETHODNAME,
+               PAYMENTMTHDBASEDESCRIPTION as PAYMENTMTHDBASEDESCRIPTION,
+               PAYMENTMTHDBASESOURCELANG as PAYMENTMTHDBASESOURCELANG,
+               PAYMENTMTHDBASELASTUPDATEDATE as PAYMENTMTHDBASELASTUPDATEDATE,
+               PAYMENTMTHDBASELASTUPDATEDBY as PAYMENTMTHDBASELASTUPDATEDBY,
+               PAYMENTMTHDBASECREATEDBY as PAYMENTMTHDBASECREATEDBY,
+               PAYMENTMTHDBASECREATIONDATE as PAYMENTMTHDBASECREATIONDATE,
+      from 'chrome-genre-298014.sakra_stage.f_finpmtfdpmtmethodam_paymentmethodtranslationpvo'
+)
+
+select * from f_finpmtfdpmtmethodam_paymentmethodtranslationpvo
