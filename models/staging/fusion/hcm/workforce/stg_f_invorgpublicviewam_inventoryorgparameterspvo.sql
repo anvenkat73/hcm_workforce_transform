@@ -8,7 +8,7 @@ with f_invorgpublicviewam_inventoryorgparameterspvo as (
                ORGANIZATIONPARAMETERPEOSUPPLIERID as ORGANIZATIONPARAMETERPEOSUPPLIERID,
                ORGANIZATIONPARAMETERPEOSUPPLIERSITEID as ORGANIZATIONPARAMETERPEOSUPPLIERSITEID,
                ORGANIZATIONPARAMETERPEOMASTERORGANIZATIONID as ORGANIZATIONPARAMETERPEOMASTERORGANIZATIONID 
-      from 'chrome-genre-298014.sakra_stage.f_invorgpublicviewam_inventoryorgparameterspvo'
+      from `chrome-genre-298014.sakra_stage.f_invorgpublicviewam_inventoryorgparameterspvo`
 )
 
 select * from f_invorgpublicviewam_inventoryorgparameterspvo

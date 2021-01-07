@@ -14,7 +14,7 @@ with f_finglcalaccam_glfiscalperiodpvo as (
                FISCALPERIODNAME as FISCALPERIODNAME,
                FISCALPERIODSETNAME as FISCALPERIODSETNAME,
                FISCALPERIODTYPE as FISCALPERIODTYPE 
-      from 'chrome-genre-298014.sakra_stage.f_finglcalaccam_glfiscalperiodpvo'
+      from `chrome-genre-298014.sakra_stage.f_finglcalaccam_glfiscalperiodpvo`
 )
 
 select * from f_finglcalaccam_glfiscalperiodpvo

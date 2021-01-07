@@ -16,7 +16,7 @@ with h_assignmentam_assignmentstatustypespvo as (
                ASSIGNMENTSTATUSTYPESPEOPERSYSTEMSTATUS as ASSIGNMENTSTATUSTYPESPEOPERSYSTEMSTATUS,
                ASSIGNMENTSTATUSTYPESPEOPRIMARYFLAG as ASSIGNMENTSTATUSTYPESPEOPRIMARYFLAG,
                ASSIGNMENTSTATUSTYPESPEOSTARTDATE as ASSIGNMENTSTATUSTYPESPEOSTARTDATE 
-      from 'chrome-genre-298014.sakra_stage.h_assignmentam_assignmentstatustypespvo'
+      from `chrome-genre-298014.sakra_stage.h_assignmentam_assignmentstatustypespvo`
 )
 
 select * from h_assignmentam_assignmentstatustypespvo

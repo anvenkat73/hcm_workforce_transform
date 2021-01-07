@@ -8,7 +8,7 @@ with h_hcmprofilecontentlibraryam_ratinglevelfirstlangpvo as (
                RATINGLEVELTRANSLATIONPEORATINGSHORTDESCR as RATINGLEVELTRANSLATIONPEORATINGSHORTDESCR,
                RATINGLEVELTRANSLATIONPEOREVIEWRATINGDESCR as RATINGLEVELTRANSLATIONPEOREVIEWRATINGDESCR,
                RATINGLEVELTRANSLATIONPEOLASTUPDATEDATE as RATINGLEVELTRANSLATIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratinglevelfirstlangpvo'
+      from `chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratinglevelfirstlangpvo`
 )
 
 select * from h_hcmprofilecontentlibraryam_ratinglevelfirstlangpvo

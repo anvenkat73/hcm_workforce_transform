@@ -8,7 +8,7 @@ with h_compensationam_salarybasespvo as (
                SALARYBASESTLPEOCREATIONDATE as SALARYBASESTLPEOCREATIONDATE,
                SALARYBASESTLPEOLASTUPDATEDBY as SALARYBASESTLPEOLASTUPDATEDBY,
                SALARYBASESTLPEOLASTUPDATEDATE as SALARYBASESTLPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_compensationam_salarybasespvo'
+      from `chrome-genre-298014.sakra_stage.h_compensationam_salarybasespvo`
 )
 
 select * from h_compensationam_salarybasespvo

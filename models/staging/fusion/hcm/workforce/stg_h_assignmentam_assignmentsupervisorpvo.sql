@@ -16,7 +16,7 @@ with h_assignmentam_assignmentsupervisorpvo as (
                ASSIGNMENTSUPERVISORPEOCREATIONDATE as ASSIGNMENTSUPERVISORPEOCREATIONDATE,
                ASSIGNMENTSUPERVISORPEOLASTUPDATEDATE as ASSIGNMENTSUPERVISORPEOLASTUPDATEDATE,
                ASSIGNMENTSUPERVISORPEOLASTUPDATEDBY as ASSIGNMENTSUPERVISORPEOLASTUPDATEDBY 
-      from 'chrome-genre-298014.sakra_stage.h_assignmentam_assignmentsupervisorpvo'
+      from `chrome-genre-298014.sakra_stage.h_assignmentam_assignmentsupervisorpvo`
 )
 
 select * from h_assignmentam_assignmentsupervisorpvo

@@ -15,7 +15,7 @@ with h_managerhierarchyam_managerhierarchydnpvolinemanager as (
                PERSONID as PERSONID,
                PRIMARYASSIGNMENTFLAG as PRIMARYASSIGNMENTFLAG,
                PRIMARYMANAGERFLAG as PRIMARYMANAGERFLAG 
-      from 'chrome-genre-298014.sakra_stage.h_managerhierarchyam_managerhierarchydnpvolinemanager'
+      from `chrome-genre-298014.sakra_stage.h_managerhierarchyam_managerhierarchydnpvolinemanager`
 )
 
 select * from h_managerhierarchyam_managerhierarchydnpvolinemanager

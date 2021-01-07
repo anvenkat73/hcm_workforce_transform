@@ -5,7 +5,7 @@ with h_gregoriancalendaram_fndcalweek as (
                CALWEEKENDDATE as CALWEEKENDDATE,
                CALWEEKSTARTDATE as CALWEEKSTARTDATE,
                LASTUPDATEDATE as LASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_gregoriancalendaram_fndcalweek'
+      from `chrome-genre-298014.sakra_stage.h_gregoriancalendaram_fndcalweek`
 )
 
 select * from h_gregoriancalendaram_fndcalweek

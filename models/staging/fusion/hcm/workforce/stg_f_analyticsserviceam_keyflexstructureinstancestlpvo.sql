@@ -12,7 +12,7 @@ with f_analyticsserviceam_keyflexstructureinstancestlpvo as (
                SOURCELANG as SOURCELANG,
                STRUCTUREINSTANCECODE as STRUCTUREINSTANCECODE,
                LASTUPDATELOGIN as LASTUPDATELOGIN 
-      from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_keyflexstructureinstancestlpvo'
+      from `chrome-genre-298014.sakra_stage.f_analyticsserviceam_keyflexstructureinstancestlpvo`
 )
 
 select * from f_analyticsserviceam_keyflexstructureinstancestlpvo

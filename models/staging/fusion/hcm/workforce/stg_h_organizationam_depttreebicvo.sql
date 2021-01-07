@@ -43,7 +43,7 @@ with h_organizationam_depttreebicvo as (
                FNDTREEVERSIONEFFDATEEOSTATUS as FNDTREEVERSIONEFFDATEEOSTATUS,
                FNDTREEEOLASTUPDATEDATE as FNDTREEEOLASTUPDATEDATE,
                FNDTREEVERSIONEFFDATEEOLASTUPDATEDATE as FNDTREEVERSIONEFFDATEEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_organizationam_depttreebicvo'
+      from `chrome-genre-298014.sakra_stage.h_organizationam_depttreebicvo`
 )
 
 select * from h_organizationam_depttreebicvo

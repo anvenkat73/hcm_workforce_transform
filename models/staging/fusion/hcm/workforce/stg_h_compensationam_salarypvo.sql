@@ -20,7 +20,7 @@ with h_compensationam_salarypvo as (
                SALARYPEOSALARYAMOUNT as SALARYPEOSALARYAMOUNT,
                SALARYPEOSALARYAPPROVED as SALARYPEOSALARYAPPROVED,
                SALARYPEOSALARYBASISID as SALARYPEOSALARYBASISID 
-      from 'chrome-genre-298014.sakra_stage.h_compensationam_salarypvo'
+      from `chrome-genre-298014.sakra_stage.h_compensationam_salarypvo`
 )
 
 select * from h_compensationam_salarypvo

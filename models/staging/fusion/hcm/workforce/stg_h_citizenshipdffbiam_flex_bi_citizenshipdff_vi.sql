@@ -19,7 +19,7 @@ with h_citizenshipdffbiam_flex_bi_citizenshipdff_vi as (
                KEY_FLEX_CONTEXT_0 as KEY_FLEX_CONTEXT_0,
                KEY_FLEX_CONTEXT_1 as KEY_FLEX_CONTEXT_1,
                KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2 
-      from 'chrome-genre-298014.sakra_stage.h_citizenshipdffbiam_flex_bi_citizenshipdff_vi'
+      from `chrome-genre-298014.sakra_stage.h_citizenshipdffbiam_flex_bi_citizenshipdff_vi`
 )
 
 select * from h_citizenshipdffbiam_flex_bi_citizenshipdff_vi

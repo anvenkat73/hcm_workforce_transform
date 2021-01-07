@@ -10,7 +10,7 @@ with f_finxlaamssetupslamam_acctgmethodpvo as (
                ACCTGMETHODTRANSLATIONLASTUPDATEDBY as ACCTGMETHODTRANSLATIONLASTUPDATEDBY,
                ACCTGMETHODTRANSLATIONCREATIONDATE as ACCTGMETHODTRANSLATIONCREATIONDATE,
                ACCTGMETHODTRANSLATIONCREATEDBY as ACCTGMETHODTRANSLATIONCREATEDBY 
-      from 'chrome-genre-298014.sakra_stage.f_finxlaamssetupslamam_acctgmethodpvo'
+      from `chrome-genre-298014.sakra_stage.f_finxlaamssetupslamam_acctgmethodpvo`
 )
 
 select * from f_finxlaamssetupslamam_acctgmethodpvo

@@ -5,7 +5,7 @@ with h_hcmelementsetupam_originatingelement as (
                EFFECTIVESTARTDATE as EFFECTIVESTARTDATE,
                ELEMENTTYPELASTUPDATEDATE as ELEMENTTYPELASTUPDATEDATE,
                ELEMENTTYPEOUTPUTCURRENCYCODE as ELEMENTTYPEOUTPUTCURRENCYCODE 
-      from 'chrome-genre-298014.sakra_stage.h_hcmelementsetupam_originatingelement'
+      from `chrome-genre-298014.sakra_stage.h_hcmelementsetupam_originatingelement`
 )
 
 select * from h_hcmelementsetupam_originatingelement

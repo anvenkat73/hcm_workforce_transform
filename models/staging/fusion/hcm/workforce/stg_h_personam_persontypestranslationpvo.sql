@@ -6,7 +6,7 @@ with h_personam_persontypestranslationpvo as (
                PERSONTYPESTRANSLATIONPEOUSERPERSONTYPE as PERSONTYPESTRANSLATIONPEOUSERPERSONTYPE,
                PERSONTYPESTRANSLATIONPEOCREATIONDATE as PERSONTYPESTRANSLATIONPEOCREATIONDATE,
                PERSONTYPESTRANSLATIONPEOLASTUPDATEDATE as PERSONTYPESTRANSLATIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_persontypestranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_personam_persontypestranslationpvo`
 )
 
 select * from h_personam_persontypestranslationpvo

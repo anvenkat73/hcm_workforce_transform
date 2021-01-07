@@ -21,7 +21,7 @@ with h_personam_personnamepvoviewall as (
                PERSONNAMEPEOORDERNAME as PERSONNAMEPEOORDERNAME,
                PERSONNAMEPEOCREATIONDATE as PERSONNAMEPEOCREATIONDATE,
                PERSONNAMEPEOLASTUPDATEDATE as PERSONNAMEPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_personnamepvoviewall'
+      from `chrome-genre-298014.sakra_stage.h_personam_personnamepvoviewall`
 )
 
 select * from h_personam_personnamepvoviewall

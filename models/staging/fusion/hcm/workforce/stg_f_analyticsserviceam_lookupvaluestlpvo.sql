@@ -12,7 +12,7 @@ with f_analyticsserviceam_lookupvaluestlpvo as (
                LASTUPDATEDBY as LASTUPDATEDBY,
                CREATEDBY as CREATEDBY,
                CREATIONDATE as CREATIONDATE 
-      from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_lookupvaluestlpvo'
+      from `chrome-genre-298014.sakra_stage.f_analyticsserviceam_lookupvaluestlpvo`
 )
 
 select * from f_analyticsserviceam_lookupvaluestlpvo

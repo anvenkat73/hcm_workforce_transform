@@ -43,7 +43,7 @@ with h_positionam_positiontreebicvo as (
                FNDTREEVERSIONEFFDATEEOSTATUS as FNDTREEVERSIONEFFDATEEOSTATUS,
                FNDTREEEOLASTUPDATEDATE as FNDTREEEOLASTUPDATEDATE,
                FNDTREEVERSIONEFFDATEEOLASTUPDATEDATE as FNDTREEVERSIONEFFDATEEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_positionam_positiontreebicvo'
+      from `chrome-genre-298014.sakra_stage.h_positionam_positiontreebicvo`
 )
 
 select * from h_positionam_positiontreebicvo

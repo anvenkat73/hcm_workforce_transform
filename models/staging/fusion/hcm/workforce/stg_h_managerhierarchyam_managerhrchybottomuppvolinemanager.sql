@@ -50,7 +50,7 @@ with h_managerhierarchyam_managerhrchybottomuppvolinemanager as (
                LEVEL9MANAGERID as LEVEL9MANAGERID,
                MANAGERTYPE as MANAGERTYPE,
                PERSONID as PERSONID 
-      from 'chrome-genre-298014.sakra_stage.h_managerhierarchyam_managerhrchybottomuppvolinemanager'
+      from `chrome-genre-298014.sakra_stage.h_managerhierarchyam_managerhrchybottomuppvolinemanager`
 )
 
 select * from h_managerhierarchyam_managerhrchybottomuppvolinemanager

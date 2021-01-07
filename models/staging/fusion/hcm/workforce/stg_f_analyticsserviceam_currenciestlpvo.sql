@@ -7,7 +7,7 @@ with f_analyticsserviceam_currenciestlpvo as (
                SOURCELANG as SOURCELANG,
                LASTUPDATEDATE as LASTUPDATEDATE,
                CREATIONDATE as CREATIONDATE 
-      from 'chrome-genre-298014.sakra_stage.f_analyticsserviceam_currenciestlpvo'
+      from `chrome-genre-298014.sakra_stage.f_analyticsserviceam_currenciestlpvo`
 )
 
 select * from f_analyticsserviceam_currenciestlpvo

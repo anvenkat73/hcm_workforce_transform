@@ -15,7 +15,7 @@ with h_assignmentam_workrelationshippvo as (
                WORKRELATIONSHIPPEOCREATIONDATE as WORKRELATIONSHIPPEOCREATIONDATE,
                WORKRELATIONSHIPPEOLASTUPDATEDATE as WORKRELATIONSHIPPEOLASTUPDATEDATE,
                WORKRELATIONSHIPPEOLASTUPDATEDBY as WORKRELATIONSHIPPEOLASTUPDATEDBY 
-      from 'chrome-genre-298014.sakra_stage.h_assignmentam_workrelationshippvo'
+      from `chrome-genre-298014.sakra_stage.h_assignmentam_workrelationshippvo`
 )
 
 select * from h_assignmentam_workrelationshippvo

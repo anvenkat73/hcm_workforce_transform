@@ -135,7 +135,7 @@ with h_persondisabilitylegddfbiam_flex_bi_persondisabilitylegddf_vi as (
                CREATEDBY as CREATEDBY,
                LASTUPDATEDATE as LASTUPDATEDATE,
                LASTUPDATEDBY as LASTUPDATEDBY 
-      from 'chrome-genre-298014.sakra_stage.h_persondisabilitylegddfbiam_flex_bi_persondisabilitylegddf_vi'
+      from `chrome-genre-298014.sakra_stage.h_persondisabilitylegddfbiam_flex_bi_persondisabilitylegddf_vi`
 )
 
 select * from h_persondisabilitylegddfbiam_flex_bi_persondisabilitylegddf_vi

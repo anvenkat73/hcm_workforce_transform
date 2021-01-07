@@ -21,7 +21,7 @@ with h_c_personprofileperformanceratingpvoprofileitemref as (
                STATEPROVINCEID as STATEPROVINCEID,
                SECTIONID as SECTIONID,
                ITEMNUMBER2 as ITEMNUMBER2 
-      from 'chrome-genre-298014.sakra_stage.h_c_personprofileperformanceratingpvoprofileitemref'
+      from `chrome-genre-298014.sakra_stage.h_c_personprofileperformanceratingpvoprofileitemref`
 )
 
 select * from h_c_personprofileperformanceratingpvoprofileitemref

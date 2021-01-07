@@ -12,7 +12,7 @@ with h_personam_personpvo as (
                PERSONPEOBLOODTYPE as PERSONPEOBLOODTYPE,
                PERSONPEOCREATIONDATE as PERSONPEOCREATIONDATE,
                PERSONPEOLASTUPDATEDATE as PERSONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_personpvo'
+      from `chrome-genre-298014.sakra_stage.h_personam_personpvo`
 )
 
 select * from h_personam_personpvo

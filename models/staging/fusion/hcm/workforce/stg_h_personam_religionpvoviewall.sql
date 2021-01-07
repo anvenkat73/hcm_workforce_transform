@@ -8,7 +8,7 @@ with h_personam_religionpvoviewall as (
                RELIGIONPEOPRIMARYFLAG as RELIGIONPEOPRIMARYFLAG,
                RELIGIONPEOCREATIONDATE as RELIGIONPEOCREATIONDATE,
                RELIGIONPEOLASTUPDATEDATE as RELIGIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_religionpvoviewall'
+      from `chrome-genre-298014.sakra_stage.h_personam_religionpvoviewall`
 )
 
 select * from h_personam_religionpvoviewall

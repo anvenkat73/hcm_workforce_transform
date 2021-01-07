@@ -8,7 +8,7 @@ with h_personam_personethinicitypvoviewall as (
                ETHNICITYPEOPRIMARYFLAG as ETHNICITYPEOPRIMARYFLAG,
                ETHNICITYPEOCREATIONDATE as ETHNICITYPEOCREATIONDATE,
                ETHNICITYPEOLASTUPDATEDATE as ETHNICITYPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_personethinicitypvoviewall'
+      from `chrome-genre-298014.sakra_stage.h_personam_personethinicitypvoviewall`
 )
 
 select * from h_personam_personethinicitypvoviewall

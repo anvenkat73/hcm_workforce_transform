@@ -25,7 +25,7 @@ with h_locationam_hrlocationspvo as (
                ADDRESSESPEOLASTUPDATEDATE as ADDRESSESPEOLASTUPDATEDATE,
                LOCATIONDETAILSPEOLASTUPDATEDATE as LOCATIONDETAILSPEOLASTUPDATEDATE,
                LOCATIONPEOLASTUPDATEDATE as LOCATIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_locationam_hrlocationspvo'
+      from `chrome-genre-298014.sakra_stage.h_locationam_hrlocationspvo`
 )
 
 select * from h_locationam_hrlocationspvo

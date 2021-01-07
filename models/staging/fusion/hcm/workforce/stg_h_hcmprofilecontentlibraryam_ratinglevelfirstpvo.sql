@@ -21,7 +21,7 @@ with h_hcmprofilecontentlibraryam_ratinglevelfirstpvo as (
                RATINGLEVELBPEOSTARRATING as RATINGLEVELBPEOSTARRATING,
                RATINGLEVELBPEOMINRATINGDISTRIBUTION as RATINGLEVELBPEOMINRATINGDISTRIBUTION,
                RATINGLEVELBPEOMAXRATINGDISTRIBUTION as RATINGLEVELBPEOMAXRATINGDISTRIBUTION 
-      from 'chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratinglevelfirstpvo'
+      from `chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratinglevelfirstpvo`
 )
 
 select * from h_hcmprofilecontentlibraryam_ratinglevelfirstpvo

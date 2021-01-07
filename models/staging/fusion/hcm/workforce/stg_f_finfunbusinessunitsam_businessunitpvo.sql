@@ -11,7 +11,7 @@ with f_finfunbusinessunitsam_businessunitpvo as (
                LEGALENTITYLEGALENTITYID as LEGALENTITYLEGALENTITYID,
                PERSONREFFULLNAME as PERSONREFFULLNAME,
                SETIDSETSSETID as SETIDSETSSETID 
-      from 'chrome-genre-298014.sakra_stage.f_finfunbusinessunitsam_businessunitpvo'
+      from `chrome-genre-298014.sakra_stage.f_finfunbusinessunitsam_businessunitpvo`
 )
 
 select * from f_finfunbusinessunitsam_businessunitpvo

@@ -12,7 +12,7 @@ with h_actionam_actionspvo as (
                ACTIONSPEOCREATIONDATE as ACTIONSPEOCREATIONDATE,
                ACTIONSPEOLASTUPDATEDATE as ACTIONSPEOLASTUPDATEDATE,
                ACTIONSPEOLASTUPDATEDBY as ACTIONSPEOLASTUPDATEDBY 
-      from 'chrome-genre-298014.sakra_stage.h_actionam_actionspvo'
+      from `chrome-genre-298014.sakra_stage.h_actionam_actionspvo`
 )
 
 select * from h_actionam_actionspvo

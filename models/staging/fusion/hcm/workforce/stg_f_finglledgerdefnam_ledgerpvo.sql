@@ -18,7 +18,7 @@ with f_finglledgerdefnam_ledgerpvo as (
                GLCALENDARSPERIODSETNAME as GLCALENDARSPERIODSETNAME,
                GLCALENDARSPERIODTYPE as GLCALENDARSPERIODTYPE,
                CURRENCYCURRENCYCODE as CURRENCYCURRENCYCODE 
-      from 'chrome-genre-298014.sakra_stage.f_finglledgerdefnam_ledgerpvo'
+      from `chrome-genre-298014.sakra_stage.f_finglledgerdefnam_ledgerpvo`
 )
 
 select * from f_finglledgerdefnam_ledgerpvo

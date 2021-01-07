@@ -14,7 +14,7 @@ with h_useram_userpvo as (
                USERPEOLASTUPDATEDATE as USERPEOLASTUPDATEDATE,
                USERPEOLASTUPDATELOGIN as USERPEOLASTUPDATELOGIN,
                USERPEOLASTUPDATEDBY as USERPEOLASTUPDATEDBY 
-      from 'chrome-genre-298014.sakra_stage.h_useram_userpvo'
+      from `chrome-genre-298014.sakra_stage.h_useram_userpvo`
 )
 
 select * from h_useram_userpvo

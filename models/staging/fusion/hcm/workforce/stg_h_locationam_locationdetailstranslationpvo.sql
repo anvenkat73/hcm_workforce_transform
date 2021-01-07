@@ -7,7 +7,7 @@ with h_locationam_locationdetailstranslationpvo as (
                LOCATIONDETAILSTRANSLATIONPEODESCRIPTION as LOCATIONDETAILSTRANSLATIONPEODESCRIPTION,
                LOCATIONDETAILSPEOLASTUPDATEDATE as LOCATIONDETAILSPEOLASTUPDATEDATE,
                LOCATIONDETAILSTRANSLATIONPEOLASTUPDATEDATE as LOCATIONDETAILSTRANSLATIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_locationam_locationdetailstranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_locationam_locationdetailstranslationpvo`
 )
 
 select * from h_locationam_locationdetailstranslationpvo

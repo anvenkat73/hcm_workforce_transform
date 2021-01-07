@@ -12,7 +12,7 @@ with h_hcmprofilecontentlibraryam_ratingcategoriesfirstpvo as (
                OBJECTVERSIONNUMBER as OBJECTVERSIONNUMBER,
                RATINGCATEGORIESBPEORATINGMODELID as RATINGCATEGORIESBPEORATINGMODELID,
                RATINGCATEGORIESBPEOUPPERBOUNDARY as RATINGCATEGORIESBPEOUPPERBOUNDARY 
-      from 'chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratingcategoriesfirstpvo'
+      from `chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratingcategoriesfirstpvo`
 )
 
 select * from h_hcmprofilecontentlibraryam_ratingcategoriesfirstpvo

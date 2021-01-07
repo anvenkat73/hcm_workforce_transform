@@ -9,7 +9,7 @@ with f_organizationam_organizationpvo as (
                ORGUNITCLASSIFICATIONPEOLEGISLATIONCODE as ORGUNITCLASSIFICATIONPEOLEGISLATIONCODE,
                ORGUNITCLASSIFICATIONPEOSETID as ORGUNITCLASSIFICATIONPEOSETID,
                ORGUNITCLASSIFICATIONPEOSTATUS as ORGUNITCLASSIFICATIONPEOSTATUS 
-      from 'chrome-genre-298014.sakra_stage.f_organizationam_organizationpvo'
+      from `chrome-genre-298014.sakra_stage.f_organizationam_organizationpvo`
 )
 
 select * from f_organizationam_organizationpvo

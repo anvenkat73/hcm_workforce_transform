@@ -9,7 +9,7 @@ with h_personam_citizenshippvoviewall as (
                CITIZENSHIPPEOCITIZENSHIPSTATUS as CITIZENSHIPPEOCITIZENSHIPSTATUS,
                CITIZENSHIPPEOCREATIONDATE as CITIZENSHIPPEOCREATIONDATE,
                CITIZENSHIPPEOLASTUPDATEDATE as CITIZENSHIPPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_citizenshippvoviewall'
+      from `chrome-genre-298014.sakra_stage.h_personam_citizenshippvoviewall`
 )
 
 select * from h_personam_citizenshippvoviewall

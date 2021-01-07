@@ -12,7 +12,7 @@ with h_jobam_jobtranslationpvo as (
                JOBTRANSLATIONPEONAME as JOBTRANSLATIONPEONAME,
                JOBTRANSLATIONPEOOBJECTVERSIONNUMBER as JOBTRANSLATIONPEOOBJECTVERSIONNUMBER,
                JOBTRANSLATIONPEOSOURCELANG as JOBTRANSLATIONPEOSOURCELANG 
-      from 'chrome-genre-298014.sakra_stage.h_jobam_jobtranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_jobam_jobtranslationpvo`
 )
 
 select * from h_jobam_jobtranslationpvo

@@ -10,7 +10,7 @@ with h_gradeam_gradetranslationpvo as (
                GRADETRANSLATIONPEOCREATIONDATE as GRADETRANSLATIONPEOCREATIONDATE,
                GRADETRANSLATIONPEOLASTUPDATEDATE as GRADETRANSLATIONPEOLASTUPDATEDATE,
                GRADETRANSLATIONPEOLASTUPDATEDBY as GRADETRANSLATIONPEOLASTUPDATEDBY 
-      from 'chrome-genre-298014.sakra_stage.h_gradeam_gradetranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_gradeam_gradetranslationpvo`
 )
 
 select * from h_gradeam_gradetranslationpvo

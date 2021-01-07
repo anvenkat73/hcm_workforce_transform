@@ -18,7 +18,7 @@ with h_gradeam_salarybasispvo as (
                SALARYBASISPEOOBJECTVERSIONNUMBER as SALARYBASISPEOOBJECTVERSIONNUMBER,
                SALARYBASISPEOSALARYANNUALIZATIONFACTOR as SALARYBASISPEOSALARYANNUALIZATIONFACTOR,
                SALARYBASISPEOSALARYBASISCODE as SALARYBASISPEOSALARYBASISCODE 
-      from 'chrome-genre-298014.sakra_stage.h_gradeam_salarybasispvo'
+      from `chrome-genre-298014.sakra_stage.h_gradeam_salarybasispvo`
 )
 
 select * from h_gradeam_salarybasispvo

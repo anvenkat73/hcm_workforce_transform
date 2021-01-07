@@ -21,7 +21,7 @@ with h_positioncustomerflexbiam_flex_bi_positioncustomerflex_vi as (
                KEY_FLEX_CONTEXT_0 as KEY_FLEX_CONTEXT_0,
                KEY_FLEX_CONTEXT_1 as KEY_FLEX_CONTEXT_1,
                KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2 
-      from 'chrome-genre-298014.sakra_stage.h_positioncustomerflexbiam_flex_bi_positioncustomerflex_vi'
+      from `chrome-genre-298014.sakra_stage.h_positioncustomerflexbiam_flex_bi_positioncustomerflex_vi`
 )
 
 select * from h_positioncustomerflexbiam_flex_bi_positioncustomerflex_vi

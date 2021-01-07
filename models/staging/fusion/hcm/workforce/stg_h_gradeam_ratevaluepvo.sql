@@ -19,7 +19,7 @@ with h_gradeam_ratevaluepvo as (
                RATEVALUEPEOLASTUPDATELOGIN as RATEVALUEPEOLASTUPDATELOGIN,
                RATEVALUEPEOLASTUPDATEDBY as RATEVALUEPEOLASTUPDATEDBY,
                RATEVALUEPEOOBJECTVERSIONNUMBER as RATEVALUEPEOOBJECTVERSIONNUMBER 
-      from 'chrome-genre-298014.sakra_stage.h_gradeam_ratevaluepvo'
+      from `chrome-genre-298014.sakra_stage.h_gradeam_ratevaluepvo`
 )
 
 select * from h_gradeam_ratevaluepvo

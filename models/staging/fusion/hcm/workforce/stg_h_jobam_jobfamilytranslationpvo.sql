@@ -10,7 +10,7 @@ with h_jobam_jobfamilytranslationpvo as (
                JOBFAMILYTRANSLATIONPEOLASTUPDATEDATE as JOBFAMILYTRANSLATIONPEOLASTUPDATEDATE,
                JOBFAMILYTRANSLATIONPEOLASTUPDATEDBY as JOBFAMILYTRANSLATIONPEOLASTUPDATEDBY,
                JOBFAMILYTRANSLATIONPEOSOURCELANG as JOBFAMILYTRANSLATIONPEOSOURCELANG 
-      from 'chrome-genre-298014.sakra_stage.h_jobam_jobfamilytranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_jobam_jobfamilytranslationpvo`
 )
 
 select * from h_jobam_jobfamilytranslationpvo

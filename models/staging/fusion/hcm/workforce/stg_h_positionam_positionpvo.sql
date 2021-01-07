@@ -54,7 +54,7 @@ with h_positionam_positionpvo as (
                POSITIONPEODELEGATEPOSITIONID as POSITIONPEODELEGATEPOSITIONID,
                POSITIONPEOFUNDEDBYEXISTINGPOSITION as POSITIONPEOFUNDEDBYEXISTINGPOSITION,
                POSITIONPEOREQUISITIONTEMPLATEID as POSITIONPEOREQUISITIONTEMPLATEID 
-      from 'chrome-genre-298014.sakra_stage.h_positionam_positionpvo'
+      from `chrome-genre-298014.sakra_stage.h_positionam_positionpvo`
 )
 
 select * from h_positionam_positionpvo

@@ -20,7 +20,7 @@ with f_fingljrnlsetupcatam_journalcategorybpvo as (
                JRNLCATTRANSLATEDOBJECTVERSIONNUMBER as JRNLCATTRANSLATEDOBJECTVERSIONNUMBER,
                JRNLCATTRANSLATEDSOURCELANG as JRNLCATTRANSLATEDSOURCELANG,
                JRNLCATTRANSLATEDUSERJECATEGORYNAME as JRNLCATTRANSLATEDUSERJECATEGORYNAME 
-      from 'chrome-genre-298014.sakra_stage.f_fingljrnlsetupcatam_journalcategorybpvo'
+      from `chrome-genre-298014.sakra_stage.f_fingljrnlsetupcatam_journalcategorybpvo`
 )
 
 select * from f_fingljrnlsetupcatam_journalcategorybpvo

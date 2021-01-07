@@ -22,7 +22,7 @@ with h_gradeam_ratepvo as (
                RATEPEOLEGISLATIVEDATAGROUPID as RATEPEOLEGISLATIVEDATAGROUPID,
                RATEPEOOBJECTVERSIONNUMBER as RATEPEOOBJECTVERSIONNUMBER,
                RATEPEOPROGRESSIONRATEFLAG as RATEPEOPROGRESSIONRATEFLAG 
-      from 'chrome-genre-298014.sakra_stage.h_gradeam_ratepvo'
+      from `chrome-genre-298014.sakra_stage.h_gradeam_ratepvo`
 )
 
 select * from h_gradeam_ratepvo

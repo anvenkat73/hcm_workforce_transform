@@ -12,7 +12,7 @@ with h_personam_personlegislativeinfopvoviewall as (
                PERSONLEGISLATIVEINFODPEOHIGHESTEDUCATIONLEVEL as PERSONLEGISLATIVEINFODPEOHIGHESTEDUCATIONLEVEL,
                PERSONLEGISLATIVEINFODPEOCREATIONDATE as PERSONLEGISLATIVEINFODPEOCREATIONDATE,
                PERSONLEGISLATIVEINFODPEOLASTUPDATEDATE as PERSONLEGISLATIVEINFODPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_personlegislativeinfopvoviewall'
+      from `chrome-genre-298014.sakra_stage.h_personam_personlegislativeinfopvoviewall`
 )
 
 select * from h_personam_personlegislativeinfopvoviewall

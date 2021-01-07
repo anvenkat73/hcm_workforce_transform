@@ -131,7 +131,7 @@ with h_workrelationshiplegddfbiam_flex_bi_workrelationshiplegddf_vi as (
                LASTUPDATEDBY as LASTUPDATEDBY,
                DESC_NAIC_OVERRIDE_CODE_ as DESC_NAIC_OVERRIDE_CODE_,
                DESC_PSE_TYPE_ as DESC_PSE_TYPE_ 
-      from 'chrome-genre-298014.sakra_stage.h_workrelationshiplegddfbiam_flex_bi_workrelationshiplegddf_vi'
+      from `chrome-genre-298014.sakra_stage.h_workrelationshiplegddfbiam_flex_bi_workrelationshiplegddf_vi`
 )
 
 select * from h_workrelationshiplegddfbiam_flex_bi_workrelationshiplegddf_vi

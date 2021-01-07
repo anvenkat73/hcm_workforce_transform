@@ -13,7 +13,7 @@ with h_assignmentam_assignmentworkmeasurepvo as (
                ASSIGNMENTWORKMEASUREPEOCREATIONDATE as ASSIGNMENTWORKMEASUREPEOCREATIONDATE,
                ASSIGNMENTWORKMEASUREPEOLASTUPDATEDBY as ASSIGNMENTWORKMEASUREPEOLASTUPDATEDBY,
                ASSIGNMENTWORKMEASUREPEOLASTUPDATEDATE as ASSIGNMENTWORKMEASUREPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_assignmentam_assignmentworkmeasurepvo'
+      from `chrome-genre-298014.sakra_stage.h_assignmentam_assignmentworkmeasurepvo`
 )
 
 select * from h_assignmentam_assignmentworkmeasurepvo

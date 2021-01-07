@@ -21,7 +21,7 @@ with h_personam_persondisabilitypvo as (
                PERSONDISABILITYPEOACCOMMODATIONREQUEST as PERSONDISABILITYPEOACCOMMODATIONREQUEST,
                PERSONDISABILITYPEOCREATIONDATE as PERSONDISABILITYPEOCREATIONDATE,
                PERSONDISABILITYPEOLASTUPDATEDATE as PERSONDISABILITYPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_personam_persondisabilitypvo'
+      from `chrome-genre-298014.sakra_stage.h_personam_persondisabilitypvo`
 )
 
 select * from h_personam_persondisabilitypvo

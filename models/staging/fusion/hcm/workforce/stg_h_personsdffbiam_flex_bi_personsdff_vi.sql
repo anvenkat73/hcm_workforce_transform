@@ -39,7 +39,7 @@ with h_personsdffbiam_flex_bi_personsdff_vi as (
                KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2,
                DESC_CR_NSRNC_LGBL_ as DESC_CR_NSRNC_LGBL_,
                KEY_CR_NSRNC_LGBL_0 as KEY_CR_NSRNC_LGBL_0 
-      from 'chrome-genre-298014.sakra_stage.h_personsdffbiam_flex_bi_personsdff_vi'
+      from `chrome-genre-298014.sakra_stage.h_personsdffbiam_flex_bi_personsdff_vi`
 )
 
 select * from h_personsdffbiam_flex_bi_personsdff_vi

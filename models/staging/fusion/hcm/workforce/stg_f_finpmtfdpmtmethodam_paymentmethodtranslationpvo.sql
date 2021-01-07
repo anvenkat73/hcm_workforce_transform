@@ -9,7 +9,7 @@ with f_finpmtfdpmtmethodam_paymentmethodtranslationpvo as (
                PAYMENTMTHDBASELASTUPDATEDBY as PAYMENTMTHDBASELASTUPDATEDBY,
                PAYMENTMTHDBASECREATEDBY as PAYMENTMTHDBASECREATEDBY,
                PAYMENTMTHDBASECREATIONDATE as PAYMENTMTHDBASECREATIONDATE 
-      from 'chrome-genre-298014.sakra_stage.f_finpmtfdpmtmethodam_paymentmethodtranslationpvo'
+      from `chrome-genre-298014.sakra_stage.f_finpmtfdpmtmethodam_paymentmethodtranslationpvo`
 )
 
 select * from f_finpmtfdpmtmethodam_paymentmethodtranslationpvo

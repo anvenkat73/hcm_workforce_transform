@@ -8,7 +8,7 @@ with f_finglcurrmanagerateam_dailyratepvo as (
                GLDAILYCONVERSIONTYPESLASTUPDATEDATE as GLDAILYCONVERSIONTYPESLASTUPDATEDATE,
                DAILYRATELASTUPDATEDATE as DAILYRATELASTUPDATEDATE,
                DAILYRATECREATIONDATE as DAILYRATECREATIONDATE 
-      from 'chrome-genre-298014.sakra_stage.f_finglcurrmanagerateam_dailyratepvo'
+      from `chrome-genre-298014.sakra_stage.f_finglcurrmanagerateam_dailyratepvo`
 )
 
 select * from f_finglcurrmanagerateam_dailyratepvo

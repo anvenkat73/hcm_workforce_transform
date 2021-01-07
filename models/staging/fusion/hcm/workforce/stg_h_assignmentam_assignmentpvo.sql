@@ -47,7 +47,7 @@ with h_assignmentam_assignmentpvo as (
                ASSIGNMENTPEOASSIGNMENTNAME as ASSIGNMENTPEOASSIGNMENTNAME,
                ASSIGNMENTPEOFULLPARTTIME as ASSIGNMENTPEOFULLPARTTIME,
                ASSIGNMENTPEOPERMANENTTEMPORARYFLAG as ASSIGNMENTPEOPERMANENTTEMPORARYFLAG 
-      from 'chrome-genre-298014.sakra_stage.h_assignmentam_assignmentpvo'
+      from `chrome-genre-298014.sakra_stage.h_assignmentam_assignmentpvo`
 )
 
 select * from h_assignmentam_assignmentpvo

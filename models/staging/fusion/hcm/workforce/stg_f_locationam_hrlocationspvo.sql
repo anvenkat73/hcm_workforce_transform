@@ -16,7 +16,7 @@ with f_locationam_hrlocationspvo as (
                LOCATIONDETAILSPEOTELEPHONENUMBER2 as LOCATIONDETAILSPEOTELEPHONENUMBER2,
                LOCATIONPEOLASTUPDATEDATE as LOCATIONPEOLASTUPDATEDATE,
                LOCATIONPEOLOCATIONID as LOCATIONPEOLOCATIONID 
-      from 'chrome-genre-298014.sakra_stage.f_locationam_hrlocationspvo'
+      from `chrome-genre-298014.sakra_stage.f_locationam_hrlocationspvo`
 )
 
 select * from f_locationam_hrlocationspvo

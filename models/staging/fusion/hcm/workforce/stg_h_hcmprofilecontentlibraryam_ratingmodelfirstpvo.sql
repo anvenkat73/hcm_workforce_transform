@@ -13,7 +13,7 @@ with h_hcmprofilecontentlibraryam_ratingmodelfirstpvo as (
                LASTUPDATELOGIN as LASTUPDATELOGIN,
                RATINGMODELBPEOMODULEID as RATINGMODELBPEOMODULEID,
                RATINGMODELBPEODISTRIBUTIONTHRESHOLD as RATINGMODELBPEODISTRIBUTIONTHRESHOLD 
-      from 'chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratingmodelfirstpvo'
+      from `chrome-genre-298014.sakra_stage.h_hcmprofilecontentlibraryam_ratingmodelfirstpvo`
 )
 
 select * from h_hcmprofilecontentlibraryam_ratingmodelfirstpvo

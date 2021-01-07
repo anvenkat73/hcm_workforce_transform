@@ -18,7 +18,7 @@ with h_gradeam_gradepvo as (
                GRADEPEOPAYSCALEID as GRADEPEOPAYSCALEID,
                GRADEPEOSETID as GRADEPEOSETID,
                GRADEPEOSTARTINGSTEP as GRADEPEOSTARTINGSTEP 
-      from 'chrome-genre-298014.sakra_stage.h_gradeam_gradepvo'
+      from `chrome-genre-298014.sakra_stage.h_gradeam_gradepvo`
 )
 
 select * from h_gradeam_gradepvo

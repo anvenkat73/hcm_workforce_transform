@@ -35,7 +35,7 @@ with h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi as (
                KEY_FLEX_CONTEXT_0 as KEY_FLEX_CONTEXT_0,
                KEY_FLEX_CONTEXT_1 as KEY_FLEX_CONTEXT_1,
                KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2 
-      from 'chrome-genre-298014.sakra_stage.h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi'
+      from `chrome-genre-298014.sakra_stage.h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi`
 )
 
 select * from h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi

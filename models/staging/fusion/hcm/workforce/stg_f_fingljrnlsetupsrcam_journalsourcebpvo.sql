@@ -11,7 +11,7 @@ with f_fingljrnlsetupsrcam_journalsourcebpvo as (
                JRNLSRCTRANSLATEDLASTUPDATEDBY as JRNLSRCTRANSLATEDLASTUPDATEDBY,
                JRNLSRCTRANSLATEDSOURCELANG as JRNLSRCTRANSLATEDSOURCELANG,
                JRNLSRCTRANSLATEDUSERJESOURCENAME as JRNLSRCTRANSLATEDUSERJESOURCENAME 
-      from 'chrome-genre-298014.sakra_stage.f_fingljrnlsetupsrcam_journalsourcebpvo'
+      from `chrome-genre-298014.sakra_stage.f_fingljrnlsetupsrcam_journalsourcebpvo`
 )
 
 select * from f_fingljrnlsetupsrcam_journalsourcebpvo

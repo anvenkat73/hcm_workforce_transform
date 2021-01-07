@@ -7,7 +7,7 @@ with h_actionam_actionstranslationpvo as (
                ACTIONTRANSLATIONPEODESCRIPTION as ACTIONTRANSLATIONPEODESCRIPTION,
                ACTIONTRANSLATIONPEOCREATIONDATE as ACTIONTRANSLATIONPEOCREATIONDATE,
                ACTIONTRANSLATIONPEOLASTUPDATEDATE as ACTIONTRANSLATIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_actionam_actionstranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_actionam_actionstranslationpvo`
 )
 
 select * from h_actionam_actionstranslationpvo

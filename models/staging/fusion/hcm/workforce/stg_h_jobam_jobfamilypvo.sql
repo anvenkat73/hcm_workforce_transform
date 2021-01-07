@@ -13,7 +13,7 @@ with h_jobam_jobfamilypvo as (
                JOBFAMILYPEOLASTUPDATEDBY as JOBFAMILYPEOLASTUPDATEDBY,
                JOBFAMILYPEOOBJECTVERSIONNUMBER as JOBFAMILYPEOOBJECTVERSIONNUMBER,
                JOBFAMILYCODE as JOBFAMILYCODE 
-      from 'chrome-genre-298014.sakra_stage.h_jobam_jobfamilypvo'
+      from `chrome-genre-298014.sakra_stage.h_jobam_jobfamilypvo`
 )
 
 select * from h_jobam_jobfamilypvo

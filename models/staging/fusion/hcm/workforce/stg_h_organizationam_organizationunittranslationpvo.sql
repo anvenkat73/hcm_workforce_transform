@@ -5,7 +5,7 @@ with h_organizationam_organizationunittranslationpvo as (
                ORGANIZATIONUNITTRANSLATIONPEONAME as ORGANIZATIONUNITTRANSLATIONPEONAME,
                ORGANIZATIONUNITPEOLASTUPDATEDATE as ORGANIZATIONUNITPEOLASTUPDATEDATE,
                ORGANIZATIONUNITTRANSLATIONPEOLASTUPDATEDATE as ORGANIZATIONUNITTRANSLATIONPEOLASTUPDATEDATE 
-      from 'chrome-genre-298014.sakra_stage.h_organizationam_organizationunittranslationpvo'
+      from `chrome-genre-298014.sakra_stage.h_organizationam_organizationunittranslationpvo`
 )
 
 select * from h_organizationam_organizationunittranslationpvo

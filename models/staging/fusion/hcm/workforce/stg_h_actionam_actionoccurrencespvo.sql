@@ -8,7 +8,7 @@ with h_actionam_actionoccurrencespvo as (
                ACTIONOCCURRENCESPEOLASTUPDATEDATE as ACTIONOCCURRENCESPEOLASTUPDATEDATE,
                ACTIONOCCURRENCESPEOLASTUPDATEDBY as ACTIONOCCURRENCESPEOLASTUPDATEDBY,
                ACTIONOCCURRENCESPEOLASTUPDATELOGIN as ACTIONOCCURRENCESPEOLASTUPDATELOGIN 
-      from 'chrome-genre-298014.sakra_stage.h_actionam_actionoccurrencespvo'
+      from `chrome-genre-298014.sakra_stage.h_actionam_actionoccurrencespvo`
 )
 
 select * from h_actionam_actionoccurrencespvo
