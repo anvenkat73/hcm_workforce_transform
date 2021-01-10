@@ -1,0 +1,14 @@
+with h_personam_religionpvoviewall as ( 
+      select 
+               RELIGIONID as RELIGIONID,
+               RELIGIONPEOPERSONID as RELIGIONPEOPERSONID,
+               RELIGIONPEOBUSINESSGROUPID as RELIGIONPEOBUSINESSGROUPID,
+               RELIGIONPEOLEGISLATIONCODE as RELIGIONPEOLEGISLATIONCODE,
+               RELIGIONPEORELIGION as RELIGIONPEORELIGION,
+               RELIGIONPEOPRIMARYFLAG as RELIGIONPEOPRIMARYFLAG,
+               RELIGIONPEOCREATIONDATE as RELIGIONPEOCREATIONDATE,
+               RELIGIONPEOLASTUPDATEDATE as RELIGIONPEOLASTUPDATEDATE 
+      from `chrome-genre-298014.sakra_stage.h_personam_religionpvoviewall`
+)
+
+select * from h_personam_religionpvoviewall

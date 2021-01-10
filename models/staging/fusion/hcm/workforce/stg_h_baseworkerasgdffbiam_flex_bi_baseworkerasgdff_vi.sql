@@ -1,0 +1,41 @@
+with h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi as ( 
+      select 
+               S_K_5000 as S_K_5000,
+               S_K_5001 as S_K_5001,
+               S_K_5002 as S_K_5002,
+               S_K_5003 as S_K_5003,
+               S_K_5004 as S_K_5004,
+               APPLICATIONID as APPLICATIONID,
+               FLEXFIELDCODE as FLEXFIELDCODE,
+               ASG_CHAR_ as ASG_CHAR_,
+               ASG_CHAR_C as ASG_CHAR_C,
+               ASG_NUM_ as ASG_NUM_,
+               ASG_NUM_C as ASG_NUM_C,
+               CDC_PERSON_ASSIGNMENT_ as CDC_PERSON_ASSIGNMENT_,
+               CDC_PERSON_ASSIGNMENT_C as CDC_PERSON_ASSIGNMENT_C,
+               CDRM_GLOBAL_ as CDRM_GLOBAL_,
+               CDRM_GLOBAL_C as CDRM_GLOBAL_C,
+               FLEX_CONTEXT_ as FLEX_CONTEXT_,
+               ASG_GLOBAL_ as ASG_GLOBAL_,
+               ASG_GLOBAL_C as ASG_GLOBAL_C,
+               CDRM_ENTRY1_ as CDRM_ENTRY1_,
+               CDRM_ENTRY1_C as CDRM_ENTRY1_C,
+               CURRENCY_ as CURRENCY_,
+               CURRENCY_C as CURRENCY_C,
+               ASG_CNTX_ as ASG_CNTX_,
+               ASG_CNTX_C as ASG_CNTX_C,
+               HDLL2_ as HDLL2_,
+               HDLL2_C as HDLL2_C,
+               CREATIONDATE as CREATIONDATE,
+               CREATEDBY as CREATEDBY,
+               LASTUPDATEDATE as LASTUPDATEDATE,
+               LASTUPDATEDBY as LASTUPDATEDBY,
+               NAME_FLEX_CONTEXT_ as NAME_FLEX_CONTEXT_,
+               DESC_FLEX_CONTEXT_ as DESC_FLEX_CONTEXT_,
+               KEY_FLEX_CONTEXT_0 as KEY_FLEX_CONTEXT_0,
+               KEY_FLEX_CONTEXT_1 as KEY_FLEX_CONTEXT_1,
+               KEY_FLEX_CONTEXT_2 as KEY_FLEX_CONTEXT_2 
+      from `chrome-genre-298014.sakra_stage.h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi`
+)
+
+select * from h_baseworkerasgdffbiam_flex_bi_baseworkerasgdff_vi
