@@ -36,4 +36,4 @@ vars:
 models:
   my_new_project:
     target_dw:
-      +materialized: view
+      +materialized: incremental
